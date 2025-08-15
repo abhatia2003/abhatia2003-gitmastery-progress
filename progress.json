@@ -52,5 +52,14 @@
       "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "clone-repo",
+    "started_at": 1755248700.272674,
+    "completed_at": 1755248702.221915,
+    "comments": [
+      "/Users/aayush/Downloads/1. Current Mods/3. Y2 S1/2. CS2103T/gitmastery-home/gitmastery-exercises/clone-repo/shapes"
+    ],
+    "status": "Error"
   }
 ]
