@@ -52,50 +52,5 @@
       "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755248700.272674,
-    "completed_at": 1755248702.221915,
-    "comments": [
-      "/Users/aayush/Downloads/1. Current Mods/3. Y2 S1/2. CS2103T/gitmastery-home/gitmastery-exercises/clone-repo/shapes"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755248835.033261,
-    "completed_at": 1755248836.5412,
-    "comments": [
-      "/Users/aayush/Downloads/1. Current Mods/3. Y2 S1/2. CS2103T/gitmastery-home/gitmastery-exercises/clone-repo/shapes"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755249033.996687,
-    "completed_at": 1755249036.017437,
-    "comments": [
-      "/Users/aayush/Downloads/1. Current Mods/3. Y2 S1/2. CS2103T/gitmastery-home/gitmastery-exercises/clone-repo/shapes"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755249067.540967,
-    "completed_at": 1755249069.298873,
-    "comments": [
-      "/Users/aayush/Downloads/1. Current Mods/3. Y2 S1/2. CS2103T/gitmastery-home/gitmastery-exercises/clone-repo/shapes"
-    ],
-    "status": "Error"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1755249215.726405,
-    "completed_at": 1755249217.444335,
-    "comments": [
-      "/Users/aayush/Downloads/1. Current Mods/3. Y2 S1/2. CS2103T/gitmastery-home/gitmastery-exercises/clone-repo/shapes"
-    ],
-    "status": "Error"
   }
 ]
